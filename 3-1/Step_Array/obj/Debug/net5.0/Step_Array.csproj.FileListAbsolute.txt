@@ -1,0 +1,16 @@
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/obj/Debug/net5.0/Step_Array.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/obj/Debug/net5.0/Step_Array.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/obj/Debug/net5.0/Step_Array.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/obj/Debug/net5.0/Step_Array.AssemblyInfo.cs
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/obj/Debug/net5.0/Step_Array.csproj.CoreCompileInputs.cache
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/bin/Debug/net5.0/Step_Array
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/bin/Debug/net5.0/Step_Array.deps.json
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/bin/Debug/net5.0/Step_Array.runtimeconfig.json
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/bin/Debug/net5.0/Step_Array.runtimeconfig.dev.json
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/bin/Debug/net5.0/Step_Array.dll
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/bin/Debug/net5.0/ref/Step_Array.dll
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/bin/Debug/net5.0/Step_Array.pdb
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/obj/Debug/net5.0/Step_Array.dll
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/obj/Debug/net5.0/ref/Step_Array.dll
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/obj/Debug/net5.0/Step_Array.pdb
+/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/obj/Debug/net5.0/Step_Array.genruntimeconfig.cache

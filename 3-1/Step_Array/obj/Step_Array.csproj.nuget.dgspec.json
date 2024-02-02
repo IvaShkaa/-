@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/Step_Array.csproj": {}
+  },
+  "projects": {
+    "/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/Step_Array.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/Step_Array.csproj",
+        "projectName": "Step_Array",
+        "projectPath": "/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/Step_Array.csproj",
+        "packagesPath": "/home/user/.nuget/packages/",
+        "outputPath": "/home/user/Рабочий стол/3-1_Task/3-1/Step_Array/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/user/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

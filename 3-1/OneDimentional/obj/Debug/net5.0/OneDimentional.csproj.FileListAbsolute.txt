@@ -1,0 +1,16 @@
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/obj/Debug/net5.0/OneDimentional.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/obj/Debug/net5.0/OneDimentional.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/obj/Debug/net5.0/OneDimentional.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/obj/Debug/net5.0/OneDimentional.AssemblyInfo.cs
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/obj/Debug/net5.0/OneDimentional.csproj.CoreCompileInputs.cache
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/bin/Debug/net5.0/OneDimentional
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/bin/Debug/net5.0/OneDimentional.deps.json
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/bin/Debug/net5.0/OneDimentional.runtimeconfig.json
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/bin/Debug/net5.0/OneDimentional.runtimeconfig.dev.json
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/bin/Debug/net5.0/OneDimentional.dll
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/bin/Debug/net5.0/ref/OneDimentional.dll
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/bin/Debug/net5.0/OneDimentional.pdb
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/obj/Debug/net5.0/OneDimentional.dll
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/obj/Debug/net5.0/ref/OneDimentional.dll
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/obj/Debug/net5.0/OneDimentional.pdb
+/home/user/Рабочий стол/3-1_Task/3-1/OneDimentional/obj/Debug/net5.0/OneDimentional.genruntimeconfig.cache

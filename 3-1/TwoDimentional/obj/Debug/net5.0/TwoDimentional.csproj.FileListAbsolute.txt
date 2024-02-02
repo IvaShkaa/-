@@ -1,0 +1,16 @@
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/bin/Debug/net5.0/TwoDimentional
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/bin/Debug/net5.0/TwoDimentional.deps.json
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/bin/Debug/net5.0/TwoDimentional.runtimeconfig.json
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/bin/Debug/net5.0/TwoDimentional.runtimeconfig.dev.json
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/bin/Debug/net5.0/TwoDimentional.dll
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/bin/Debug/net5.0/ref/TwoDimentional.dll
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/bin/Debug/net5.0/TwoDimentional.pdb
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/obj/Debug/net5.0/TwoDimentional.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/obj/Debug/net5.0/TwoDimentional.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/obj/Debug/net5.0/TwoDimentional.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/obj/Debug/net5.0/TwoDimentional.AssemblyInfo.cs
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/obj/Debug/net5.0/TwoDimentional.csproj.CoreCompileInputs.cache
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/obj/Debug/net5.0/TwoDimentional.dll
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/obj/Debug/net5.0/ref/TwoDimentional.dll
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/obj/Debug/net5.0/TwoDimentional.pdb
+/home/user/Рабочий стол/3-1_Task/3-1/TwoDimentional/obj/Debug/net5.0/TwoDimentional.genruntimeconfig.cache
