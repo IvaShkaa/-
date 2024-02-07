@@ -3,7 +3,6 @@
 public class TwoD_Array
 {
     public int[,] _array;
-    public bool Keyboard_Input = false;
 
     public TwoD_Array(int _Height, int _Length, bool Keyboard_Input)
     {
