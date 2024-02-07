@@ -3,7 +3,6 @@
 public class Step_Array
 {
     private int[][] _array;
-    bool Keyboard_Input = false;
 
     public Step_Array(int Length, bool Keyboard_Input)
     {
